@@ -8,6 +8,7 @@ body {
 }
 
 header {
+  /* Set padding to 20 */
   padding: 20px;
 }
 
@@ -23,11 +24,6 @@ main {
 p {
   /* Set font color to be the hex code 333333 */
   color: #333333;
-}
-
-.faded {
-  /* Set opacity of the text to be 0.7 */
-  opacity: 0.7;
 }
 
 img {
@@ -46,29 +42,37 @@ h2 {
 }
 
 blockquote {
+  /* Set margin 0 top and bottom and 20 left and right */
   margin: 0 20px;
+  /* setpadding left to be 10px */
   padding-left: 10px;
 }
 
 blockquote p {
+  /* Opacity 0.7 */
   opacity: 0.7;
+  /* Set font size to be double of actual size */
   font-size: 2em;
+  /* Set font to be italic */
   font-style: italic;
 }
 
 ul li {
+  /* Set font color to be the hex code 333 */
   color: #333333;
 }
 
 ul li span {
+  /* Set an underline */
   text-decoration: underline;
+  /* Set font to be bold */
   font-weight: 800;
 }
 
 footer {
   /* Set font color to white */
   color: white;
-  /* Set background color to black */
+  /* Set background color to #c80651 */
   background-color: #c80651;
   /* Set padding on all sides to be 20 pixels */
   padding: 20px;
@@ -80,10 +84,12 @@ footer {
 
 @media (max-width: 600px) {
   body {
+    /* Set body font size 14 px */
     font-size: 14px;
   }
 
   ul {
+    /* Set body padding left 20 px */
     padding-left: 20px;
   }
 }
