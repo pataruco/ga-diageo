@@ -2,7 +2,7 @@
 
 ## What it is?
 
-Code along exercise for [Intro to Code](https://generalassemb.ly/education/intro-to-coding-html-css/london)
+Code along exercise
 
 ## Instructions
 
