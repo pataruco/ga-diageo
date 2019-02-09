@@ -56,6 +56,10 @@ blockquote p {
   font-style: italic;
 }
 
+ul li {
+  color: #333333;
+}
+
 ul li span {
   text-decoration: underline;
   font-weight: 800;

@@ -1,4 +1,4 @@
-# General Assembly Intro to Code workshop
+# General Assembly / Diageo
 
 ## What it is?
 
